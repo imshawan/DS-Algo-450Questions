@@ -54,6 +54,8 @@ int main()
 		sorted[pos]=2;
 		pos++;
 		}
+                           // Printing the elements of the final array
+
 	for(j=0; j<5; j++)
 		{
 		cout<<sorted[j];
